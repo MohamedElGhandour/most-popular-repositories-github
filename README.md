@@ -2,13 +2,13 @@
 
 ## Available Live Demo API
 
-Click [Here](https://most-popular-repositories-ghandour.herokuapp.com/repositories/popular) to View the Production.
+Click [Here](https://most-popular-repos-ghandour.herokuapp.com/repositories/popular) to View the Production.
 
-Server Link (API) : https://most-popular-repositories-ghandour.herokuapp.com/repositories/popular
+Server Link (API) : https://most-popular-repos-ghandour.herokuapp.com/repositories/popular
 
 ### example
 
-[![example](./api.png)](https://most-popular-repositories-ghandour.herokuapp.com/repositories/popular)
+[![example](./api.png)](https://most-popular-repos-ghandour.herokuapp.com/repositories/popular)
 
 ## Setup
 
