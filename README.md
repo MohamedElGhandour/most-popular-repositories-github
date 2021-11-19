@@ -59,6 +59,8 @@ GET         /repositories/popular
 
 ### Filter
 
+Use `language` and `created_after` to filter returned data.
+
 ```
 GET /repositories/popular?language=typescript
 GET /repositories/popular?created_after=2020-10-10
